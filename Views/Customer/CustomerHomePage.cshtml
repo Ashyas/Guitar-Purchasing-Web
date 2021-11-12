@@ -1,0 +1,151 @@
+﻿@model Project.Models.Customer
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>LoveYourGuitar</title>
+
+    <!-- Bootstrap -->
+    <link href="~/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/animate.css">
+    <link rel="stylesheet" href="~/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/css/jquery.bxslider.css">
+    <link rel="stylesheet" type="text/css" href="~/css/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="~/css/demo.css" />
+    <link rel="stylesheet" type="text/css" href="~/css/set1.css" />
+    <link href="~/css/overwrite.css" rel="stylesheet">
+    <link href="~/css/style.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse.collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="@Url.Action("CustomerHomePage", "Customer")"><span>LoveYourGuitar</span></a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <div class="menu">
+                    <ul class="nav nav-tabs" role="tablist">
+                        <li>
+                            <a href="@Url.Action("NewOrder", "Customer")" class="elements">
+                                <span>New Order</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="@Url.Action("MyOrders", "Customer")" class="elements">
+                                <span>My Order</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="@Url.Action("ShowHomePage", "Home")" class="elements">
+                                <span>Log Out</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-md-offset-3">
+                <div class="text-center">
+                    <br />
+                    <br />
+                    <br />
+                    <h2><b>Welcome back: @Session["FirstName"] @Session["LastName"]</b></h2>
+                    <p>
+                        How can I sweeten your day?<br>
+                    </p>
+                </div>
+                <hr>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class="inner-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 f-about">
+                        <a href="@Url.Action("CustomerHomePage", "Customer")"><h1>Home</h1></a>
+                        <p>
+                            Would you like to go back to the home page?
+                        </p>
+                    </div>
+                    <div class="col-md-4 l-posts">
+                        <h3 class="widgetheading">Improve your skills or start learning to play your guitar:</h3>
+                        <ul>
+                            <li><a href="https://www.youtube.com/watch?v=0qGX0HVnxyk&list=PLlwfspJqZ127q4BGDA0RnYu8JCGZn-gGL">How To Setup Your Electric Guitar</a></li>
+                            <li><a href="https://www.youtube.com/user/JustinSandercoe/playlists">JustinGuitar-Everything you want to know</a></li>
+                            <li><a href="https://www.youtube.com/user/ClassicalGuitarShed">Classic Guitar For Beginners</a></li>
+                            <li><a href="https://www.youtube.com/watch?v=PkuwQFqsh3Y&list=PL94D8A5671E56FBB9">Improve Your Skills in Electric Guitar</a></li>
+                            <li><a href="https://www.youtube.com/watch?v=jaHNwIIIL6s&list=PLDqS_IxCt0WmTPm1kPYsPAAnbV6QIZoCK">For People Using Left Hand</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4 f-contact">
+                        <h3 class="widgetheading">Contact & Help:</h3>
+                        <a href="mailto:asheryasia@gmail.com"><p><i class="fa fa-envelope"></i>asheryasia@gmail.com</p></a>
+                        <p><i class="fa fa-phone"></i>0543395717</p>
+                        <p>
+                            <i class="fa fa-home"></i>
+                            Beer Sheva
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="last-div">
+            <div class="container">
+                <div class="row">
+                    <div class="copyright">
+                        © 2019 Asher INC | LoveYourGuitar
+                    </div>
+                </div>
+            </div>
+            @*<div class="container">
+                    <div class="row">
+                        <ul class="social-network">
+                            <li><a href="#" data-placement="top" title="Facebook"><i class="fa fa-facebook fa-1x"></i></a></li>
+                            <li><a href="#" data-placement="top" title="Twitter"><i class="fa fa-twitter fa-1x"></i></a></li>
+                            <li><a href="#" data-placement="top" title="Linkedin"><i class="fa fa-linkedin fa-1x"></i></a></li>
+                            <li><a href="#" data-placement="top" title="Pinterest"><i class="fa fa-pinterest fa-1x"></i></a></li>
+                            <li><a href="#" data-placement="top" title="Google plus"><i class="fa fa-google-plus fa-1x"></i></a></li>
+                        </ul>
+                    </div>
+                </div>*@
+            <a href="" class="scrollup"><i class="fa fa-chevron-up"></i></a>
+        </div>
+    </footer>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="~/Scripts/jquery-3.2.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/wow.min.js"></script>
+    <script src="~/Scripts/jquery.bxslider.min.js"></script>
+    <script type="text/javascript" src="~/Scripts/fliplightbox.min.js"></script>
+    <script src="~/Scripts/functions.js"></script>
+    <script type="text/javascript">$('.portfolio').flipLightBox()</script>
+</body>
+</html>

@@ -1,0 +1,376 @@
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\roslyn\csc.exe
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\roslyn\vbc.exe
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\roslyn\VBCSCompiler.exe
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\Project.dll.config
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\Project.dll
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\Project.pdb
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\Antlr3.Runtime.dll
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\Newtonsoft.Json.dll
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\System.Web.Helpers.dll
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\System.Web.Mvc.dll
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\System.Web.Optimization.dll
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\System.Web.Razor.dll
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\System.Web.WebPages.Deployment.dll
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\System.Web.WebPages.dll
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\System.Web.WebPages.Razor.dll
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\WebGrease.dll
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\System.Web.Helpers.xml
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\System.Web.Mvc.xml
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\System.Web.Optimization.xml
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\System.Web.Razor.xml
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\System.Web.WebPages.xml
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\System.Web.WebPages.Deployment.xml
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\System.Web.WebPages.Razor.xml
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\Antlr3.Runtime.pdb
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\bin\Newtonsoft.Json.xml
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.dll
+c:\users\tal rubin\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.pdb
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\csc.exe
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\vbc.exe
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pinhas\Desktop\Project\Project\bin\Project.dll.config
+C:\Users\Pinhas\Desktop\Project\Project\bin\Project.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\Project.pdb
+C:\Users\Pinhas\Desktop\Project\Project\bin\EntityFramework.xml
+C:\Users\Pinhas\Desktop\Project\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Pinhas\Desktop\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pinhas\Desktop\Project\Project\bin\System.Web.Helpers.xml
+C:\Users\Pinhas\Desktop\Project\Project\bin\System.Web.Mvc.xml
+C:\Users\Pinhas\Desktop\Project\Project\bin\System.Web.Optimization.xml
+C:\Users\Pinhas\Desktop\Project\Project\bin\System.Web.Razor.xml
+C:\Users\Pinhas\Desktop\Project\Project\bin\System.Web.WebPages.xml
+C:\Users\Pinhas\Desktop\Project\Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pinhas\Desktop\Project\Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pinhas\Desktop\Project\Project\bin\Antlr3.Runtime.pdb
+C:\Users\Pinhas\Desktop\Project\Project\bin\Newtonsoft.Json.xml
+C:\Users\Pinhas\Desktop\Project\Project\obj\Debug\Project.dll
+C:\Users\Pinhas\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\Pinhas\Desktop\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\csc.exe.config
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\csc.rsp
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\csi.exe
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\csi.exe.config
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\csi.rsp
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.AppContext.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.Console.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\vbc.exe.config
+C:\Users\Pinhas\Desktop\Project\Project\bin\roslyn\vbc.rsp
+C:\Users\talru\Desktop\Project\Project\bin\Project.dll.config
+C:\Users\talru\Desktop\Project\Project\bin\Project.dll
+C:\Users\talru\Desktop\Project\Project\bin\Project.pdb
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\csc.exe
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\csc.exe.config
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\csc.rsp
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\csi.exe
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\csi.exe.config
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\csi.rsp
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.AppContext.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.Console.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.Threading.Thread.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\vbc.exe
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\vbc.exe.config
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\vbc.rsp
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\talru\Desktop\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\talru\Desktop\Project\Project\bin\Antlr3.Runtime.pdb
+C:\Users\talru\Desktop\Project\Project\bin\EntityFramework.xml
+C:\Users\talru\Desktop\Project\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\talru\Desktop\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\talru\Desktop\Project\Project\bin\Newtonsoft.Json.xml
+C:\Users\talru\Desktop\Project\Project\bin\System.Web.Helpers.xml
+C:\Users\talru\Desktop\Project\Project\bin\System.Web.Mvc.xml
+C:\Users\talru\Desktop\Project\Project\bin\System.Web.Optimization.xml
+C:\Users\talru\Desktop\Project\Project\bin\System.Web.Razor.xml
+C:\Users\talru\Desktop\Project\Project\bin\System.Web.WebPages.xml
+C:\Users\talru\Desktop\Project\Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\talru\Desktop\Project\Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\talru\Desktop\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\talru\Desktop\Project\Project\obj\Debug\Project.dll
+C:\Users\talru\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\warda\Desktop\Project\Project\bin\Project.dll.config
+C:\Users\warda\Desktop\Project\Project\bin\Project.dll
+C:\Users\warda\Desktop\Project\Project\bin\Project.pdb
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\csc.exe
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\csc.exe.config
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\csc.rsp
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\csi.exe
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\csi.exe.config
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\csi.rsp
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.AppContext.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.Console.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.Threading.Thread.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\vbc.exe
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\vbc.exe.config
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\vbc.rsp
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\warda\Desktop\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\warda\Desktop\Project\Project\bin\Antlr3.Runtime.pdb
+C:\Users\warda\Desktop\Project\Project\bin\EntityFramework.xml
+C:\Users\warda\Desktop\Project\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\warda\Desktop\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\warda\Desktop\Project\Project\bin\Newtonsoft.Json.xml
+C:\Users\warda\Desktop\Project\Project\bin\System.Web.Helpers.xml
+C:\Users\warda\Desktop\Project\Project\bin\System.Web.Mvc.xml
+C:\Users\warda\Desktop\Project\Project\bin\System.Web.Optimization.xml
+C:\Users\warda\Desktop\Project\Project\bin\System.Web.Razor.xml
+C:\Users\warda\Desktop\Project\Project\bin\System.Web.WebPages.xml
+C:\Users\warda\Desktop\Project\Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\warda\Desktop\Project\Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\warda\Desktop\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\warda\Desktop\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\warda\Desktop\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\warda\Desktop\Project\Project\obj\Debug\Project.dll
+C:\Users\warda\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\Project.dll.config
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\Project.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\Project.pdb
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\csc.exe
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\csc.exe.config
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\csc.rsp
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\csi.exe
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\csi.exe.config
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\csi.rsp
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Console.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\vbc.exe
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\vbc.rsp
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\Antlr3.Runtime.pdb
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\EntityFramework.xml
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\Newtonsoft.Json.xml
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\System.Web.Helpers.xml
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\System.Web.Mvc.xml
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\System.Web.Optimization.xml
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\System.Web.Razor.xml
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\System.Web.WebPages.xml
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\obj\Debug\Project.dll
+C:\Users\ACER\Downloads\שנה ג\תקשורת מחשבים\project\new guitar\Project\Project\obj\Debug\Project.pdb
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\Project.dll.config
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\Project.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\Project.pdb
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\csc.exe
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\csc.exe.config
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\csc.rsp
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\csi.exe
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\csi.exe.config
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\csi.rsp
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.AppContext.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Console.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\vbc.exe
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\vbc.exe.config
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\vbc.rsp
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\Antlr3.Runtime.pdb
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\EntityFramework.xml
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\Newtonsoft.Json.xml
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\System.Web.Helpers.xml
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\System.Web.Mvc.xml
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\System.Web.Optimization.xml
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\System.Web.Razor.xml
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\System.Web.WebPages.xml
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\obj\Debug\Project.dll
+C:\Users\Ash\Documents\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\project\new guitar\Project\Project\obj\Debug\Project.pdb

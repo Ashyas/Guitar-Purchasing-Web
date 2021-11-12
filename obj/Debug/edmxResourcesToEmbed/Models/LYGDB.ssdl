@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MVCDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'MVCDB.dbo.customer' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="customer">
+    <Key>
+      <PropertyRef Name="email" />
+      <PropertyRef Name="fname" />
+      <PropertyRef Name="lname" />
+      <PropertyRef Name="phone" />
+    </Key>
+    <Property Name="email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="fname" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="lname" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="phone" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'MVCDB.dbo.order' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="order">
+    <Key>
+      <PropertyRef Name="oid" />
+      <PropertyRef Name="pid" />
+      <PropertyRef Name="email" />
+      <PropertyRef Name="qunt" />
+      <PropertyRef Name="date" />
+    </Key>
+    <Property Name="oid" Type="int" Nullable="false" />
+    <Property Name="pid" Type="int" Nullable="false" />
+    <Property Name="email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="qunt" Type="int" Nullable="false" />
+    <Property Name="date" Type="date" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'MVCDB.dbo.product' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="product">
+          <Property Name="pid" Type="varchar" MaxLength="50" />
+          <Property Name="pname" Type="varchar" MaxLength="50" />
+          <Property Name="price" Type="varchar" MaxLength="50" />
+        </EntityType>-->
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'MVCDB.dbo.user' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="user">
+          <Property Name="email" Type="varchar" MaxLength="20" />
+          <Property Name="password" Type="varchar" MaxLength="20" />
+          <Property Name="type" Type="bit" />
+        </EntityType>-->
+  <EntityContainer Name="MVCDBModelStoreContainer">
+    <EntitySet Name="customer" EntityType="Self.customer" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [customer].[email] AS [email], 
+    [customer].[fname] AS [fname], 
+    [customer].[lname] AS [lname], 
+    [customer].[phone] AS [phone]
+    FROM [dbo].[customer] AS [customer]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="order" EntityType="Self.order" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [order].[oid] AS [oid], 
+    [order].[pid] AS [pid], 
+    [order].[email] AS [email], 
+    [order].[qunt] AS [qunt], 
+    [order].[date] AS [date]
+    FROM [dbo].[order] AS [order]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>
