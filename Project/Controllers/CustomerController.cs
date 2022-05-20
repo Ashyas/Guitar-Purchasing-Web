@@ -41,26 +41,35 @@ namespace Project.Controllers
 
         public ActionResult Order(Order o)
         {//Function for user to order a cake from the list.
-            o.oid = 1000;//BASE order id
-            int check=0;
-            o.email = Session["Email"].ToString();
-            o.date = DateTime.Now.Date.ToLongDateString();//based
-            ProductsDal pDal = new ProductsDal();
-            List<Product> obj = pDal.Products.ToList<Product>();
-            foreach(Product p in obj)
+            try
             {
-                if (p.pid == o.pid)
-                    check = 1;
+                o.oid = 1000;//BASE order id
+                int check = 0;
+                o.email = Session["Email"].ToString();
+                o.date = DateTime.Now.Date.ToLongDateString();//based
+                ProductsDal pDal = new ProductsDal();
+                List<Product> obj = pDal.Products.ToList<Product>();
+                foreach (Product p in obj)
+                {
+                    if (p.pid == o.pid)
+                        check = 1;
+                }
+                if (check == 0)//Check if product exists
+                {
+                    Session["Error"] = "Product ID not exists!";
+                    return RedirectToAction("NewOrder");
+                }
+                OrderDal oDal = new OrderDal();//SAVING PART in order list
+                oDal.Orders.Add(o);
+                oDal.SaveChanges();
+                return RedirectToAction("Purchase", o);
             }
-            if (check == 0)//Check if product exists
+            catch (Exception ex)
             {
-                Session["Error"] = "Product ID not exists!";
-                return RedirectToAction("NewOrder");
+                ex.Message.ToString();
+                return RedirectToAction("CustomerHomePage", o); 
             }
-            OrderDal oDal = new OrderDal();//SAVING PART in order list
-            oDal.Orders.Add(o);
-            oDal.SaveChanges();
-            return RedirectToAction("Purchase", o);
+            
         }
         public ActionResult Purchase(Order o)
         {

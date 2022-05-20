@@ -17,6 +17,5 @@ namespace Project.Dal
         }
         public DbSet<Product> Products { get; set; }
 
-
     }
 }

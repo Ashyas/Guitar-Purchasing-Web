@@ -266,10 +266,11 @@
     <Content Include="img\e4.png" />
     <Content Include="img\e5.jpg" />
     <Content Include="img\e6.jpg" />
-    <Content Include="img\h1.jpg" />
     <Content Include="img\h2.jpg" />
     <Content Include="img\h3.jpg" />
     <Content Include="img\h4.jpg" />
+    <Content Include="img\h5.jpg" />
+    <Content Include="img\h6.jpg" />
     <Content Include="obj\Debug\Project.csproj.FileListAbsolute.txt" />
     <Content Include="obj\Debug\Project.dll" />
     <Content Include="obj\Debug\Project.pdb" />
